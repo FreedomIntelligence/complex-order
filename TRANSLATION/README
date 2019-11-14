@@ -1,0 +1,17 @@
+Train the model
+
+# python3 train.py -data data/multi30k.atok.low.pt -save_model trained -save_mode best -proj_share_weight -label_smoothing
+
+Text the model 
+
+# python3 translate.py -model trained.chkpt -vocab data/multi.low.pt -src data/test.en.src
+
+
+1) Train the Model
+CUDA_VISIBLE_DEVICES=1 python3 train.py -data data/multi30k.atok.low.pt -save_model trained -save_mode best -proj_share_weight -label_smoothing
+
+2) Test the model
+CUDA_VISIBLE_DEVICES=1 python3 translate.py -model trained.chkpt -vocab data/multi30k.atok.low.pt -src data/multi30k/test.en.atok -no_cuda
+
+3) compute the BLEU.
+CUDA_VISIBLE_DEVICES=1 perl benchmark/multi-bleu.perl reference.txt < predictions.txt

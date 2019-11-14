@@ -1,0 +1,60 @@
+contract b { \ n bytes32 a = ( num3 + num3 ) ; \ n function a ( b , b ) public { \ n b = ( num2 + num1 ) ; \ n } \ n } \ n
+contract c { \ n c = ( num1 + b ) ; \ n function b ( ) private { \ n c = ( num1 + num1 ) ; \ n } \ n } \ n
+contract a { \ n a = ( num3 + num2 ) ; \ n function a ( ) private { \ n float c = ( num2 + a ) ; \ n } \ n } \ n
+contract a { \ n a = ( a + a ) ; \ n function c ( ) public { \ n a = ( b + b ) ; \ n } \ n } \ n
+contract b { \ n b = ( num1 + num1 ) ; \ n function b ( b ) private { \ n b = ( num2 + num2 ) ; \ n } \ n } \ n
+contract a { \ n address c = ( num1 + num1 ) ; \ n function b ( a ) private { \ n a = ( num2 + a ) ; \ n } \ n } \ n
+contract a { \ n uint c = ( num1 + a ) ; \ n function a ( a ) private { \ n a = ( num1 + num1 ) ; \ n } \ n } \ n
+contract c { \ n address a = ( num1 + num3 ) ; \ n function b ( ) private { \ n a = ( num1 + num1 ) ; \ n } \ n } \ n
+contract a { \ n bytes32 b = ( num3 + a ) ; \ n function b ( a , bytes32 c , a , b , b ) private { \ n b = ( num1 + num1 ) ; \ n } \ n } \ n
+contract c { \ n bytes32 b = ( num2 + num3 ) ; \ n function a ( ) private { \ n bytes32 a = ( num2 + num2 ) ; \ n } \ n } \ n
+contract c { \ n c = ( c + a ) ; \ n function c ( c ) private { \ n double b = ( num2 + b ) ; \ n } \ n } \ n
+contract b { \ n b = ( b + a ) ; \ n function a ( b , double a , b , b ) public { \ n c = ( a + a ) ; \ n } \ n } \ n
+contract c { \ n boolean a = ( num3 + c ) ; \ n function a ( boolean b ) public { \ n c = ( a + a ) ; \ n } \ n } \ n
+contract b { \ n b = ( num3 + num3 ) ; \ n function a ( int a , b ) private { \ n b = ( num3 + num3 ) ; \ n } \ n } \ n
+contract a { \ n boolean b = ( num1 + num3 ) ; \ n function c ( ) public { \ n boolean c = ( a + a ) ; \ n } \ n } \ n
+contract c { \ n int a = ( num3 + num3 ) ; \ n function b ( ) private { \ n a = ( num1 + num3 ) ; \ n } \ n } \ n
+contract c { \ n int a = ( num3 + num2 ) ; \ n function b ( c , int b ) private { \ n b = ( num1 + num1 ) ; \ n } \ n } \ n
+contract a { \ n a = ( a + num2 ) ; \ n function a ( bytes32 b , a ) public { \ n bytes32 c = ( num2 + num2 ) ; \ n } \ n } \ n
+contract a { \ n address b = ( b + a ) ; \ n function b ( b , b ) private { \ n b = ( num2 + a ) ; \ n } \ n } \ n
+contract a { \ n uint b = ( num3 + num3 ) ; \ n function b ( ) private { \ n b = ( num2 + num2 ) ; \ n } \ n } \ n
+contract a { \ n a = ( num1 + b ) ; \ n function b ( uint b ) private { \ n double c = ( num2 + num2 ) ; \ n } \ n } \ n
+contract b { \ n uint a = ( num1 + a ) ; \ n function b ( b ) private { \ n a = ( num3 + num3 ) ; \ n } \ n } \ n
+contract c { \ n c = ( c + num3 ) ; \ n function c ( ) private { \ n bytes32 b = ( b + c ) ; \ n } \ n } \ n
+contract c { \ n int b = ( c + b ) ; \ n function c ( ) private { \ n c = ( num1 + c ) ; \ n } \ n } \ n
+contract b { \ n double c = ( num3 + num1 ) ; \ n function a ( c ) public { \ n c = ( num1 + num1 ) ; \ n } \ n } \ n
+contract b { \ n b = ( b + b ) ; \ n function b ( b ) public { \ n double a = ( num2 + b ) ; \ n } \ n } \ n
+contract a { \ n a = ( num1 + c ) ; \ n function c ( ) private { \ n float c = ( num3 + num3 ) ; \ n } \ n } \ n
+contract b { \ n b = ( num2 + num2 ) ; \ n function a ( ) private { \ n b = ( num1 + num3 ) ; \ n } \ n } \ n
+contract b { \ n uint a = ( c + num3 ) ; \ n function a ( ) private { \ n uint c = ( num3 + b ) ; \ n } \ n } \ n
+contract c { \ n boolean b = ( num3 + num1 ) ; \ n function b ( ) public { \ n boolean a = ( num3 + num3 ) ; \ n } \ n } \ n
+contract a { \ n a = ( num1 + a ) ; \ n function b ( ) public { \ n a = ( num2 + num2 ) ; \ n } \ n } \ n
+contract a { \ n a = ( num2 + num2 ) ; \ n function a ( bytes32 c , a ) public { \ n bytes32 b = ( a + a ) ; \ n } \ n } \ n
+contract c { \ n bytes32 b = ( num1 + c ) ; \ n function a ( b , c ) public { \ n bytes32 a = ( num2 + c ) ; \ n } \ n } \ n
+contract a { \ n float b = ( num3 + num3 ) ; \ n function a ( b , b , b , b , b ) private { \ n b = ( num2 + num1 ) ; \ n } \ n } \ n
+contract a { \ n float c = ( num2 + num2 ) ; \ n function b ( float b , b , b ) public { \ n b = ( a + a ) ; \ n } \ n } \ n
+contract c { \ n double a = ( num3 + b ) ; \ n function b ( ) public { \ n a = ( num3 + num3 ) ; \ n } \ n } \ n
+contract b { \ n b = ( num3 + c ) ; \ n function b ( ) public { \ n boolean a = ( num1 + num1 ) ; \ n } \ n } \ n
+contract a { \ n boolean c = ( b + num3 ) ; \ n function c ( ) public { \ n a = ( num1 + num1 ) ; \ n } \ n } \ n
+contract c { \ n float a = ( num2 + num2 ) ; \ n function b ( c ) public { \ n c = ( num1 + b ) ; \ n } \ n } \ n
+contract b { \ n float c = ( num2 + num2 ) ; \ n function b ( ) public { \ n b = ( num3 + num2 ) ; \ n } \ n } \ n
+contract b { \ n b = ( num1 + num1 ) ; \ n function a ( int a , b ) public { \ n b = ( num2 + num2 ) ; \ n } \ n } \ n
+contract b { \ n float c = ( num2 + b ) ; \ n function a ( float a ) public { \ n b = ( b + b ) ; \ n } \ n } \ n
+contract c { \ n c = ( a + a ) ; \ n function b ( float b , float a , b , b ) public { \ n b = ( a + num1 ) ; \ n } \ n } \ n
+contract a { \ n bytes32 b = ( num2 + b ) ; \ n function b ( a ) private { \ n a = ( a + a ) ; \ n } \ n } \ n
+contract a { \ n a = ( num1 + num3 ) ; \ n function b ( a , uint c , a ) private { \ n a = ( num3 + num3 ) ; \ n } \ n } \ n
+contract c { \ n float b = ( num1 + num1 ) ; \ n function a ( float a ) public { \ n c = ( num2 + num2 ) ; \ n } \ n } \ n
+contract a { \ n uint b = ( b + num2 ) ; \ n function c ( ) private { \ n b = ( c + a ) ; \ n } \ n } \ n
+contract b { \ n float c = ( num2 + b ) ; \ n function b ( ) public { \ n float a = ( num2 + num2 ) ; \ n } \ n } \ n
+contract c { \ n c = ( num3 + b ) ; \ n function b ( c ) public { \ n int b = ( num2 + num2 ) ; \ n } \ n } \ n
+contract c { \ n bytes32 a = ( b + num3 ) ; \ n function a ( ) private { \ n bytes32 b = ( a + a ) ; \ n } \ n } \ n
+contract a { \ n bytes32 b = ( c + num3 ) ; \ n function b ( bytes32 c , a ) public { \ n b = ( a + num3 ) ; \ n } \ n } \ n
+contract a { \ n a = ( b + num3 ) ; \ n function a ( float b ) private { \ n b = ( b + b ) ; \ n } \ n } \ n
+contract b { \ n float a = ( a + b ) ; \ n function a ( ) private { \ n a = ( a + a ) ; \ n } \ n } \ n
+contract c { \ n int a = ( num1 + c ) ; \ n function a ( c ) public { \ n c = ( num1 + num1 ) ; \ n } \ n } \ n
+contract b { \ n b = ( num2 + c ) ; \ n function b ( bytes32 a ) private { \ n b = ( a + num2 ) ; \ n } \ n } \ n
+contract b { \ n int a = ( b + num2 ) ; \ n function a ( b , int c , b , a , b ) private { \ n b = ( num2 + num2 ) ; \ n } \ n } \ n
+contract c { \ n c = ( num1 + num1 ) ; \ n function b ( bytes32 a , c ) public { \ n a = ( num3 + num2 ) ; \ n } \ n } \ n
+contract c { \ n address a = ( num1 + num1 ) ; \ n function a ( ) private { \ n a = ( num3 + num1 ) ; \ n } \ n } \ n
+contract a { \ n uint b = ( num3 + b ) ; \ n function a ( b , b , b , b ) public { \ n uint c = ( num1 + num1 ) ; \ n } \ n } \ n
+contract a { \ n address c = ( num3 + b ) ; \ n function c ( c , c , address b , a ) private { \ n address b = ( b + a ) ; \ n } \ n } \ n
